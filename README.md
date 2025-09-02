@@ -43,7 +43,6 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Water Tracker | [https://github.com/Explore-In-HMOS-Wearable/water-tracker](https://github.com/Explore-In-HMOS-Wearable/water-tracker) |
 | Wear Engine Lite Wearable To Mobile | [https://github.com/Explore-In-HMOS-Wearable/wear-engine-lite-wearable-to-mobile](https://github.com/Explore-In-HMOS-Wearable/wear-engine-lite-wearable-to-mobile) |
 | Wear Engine Mobile To Watch | [https://github.com/Explore-In-HMOS-Wearable/wear-engine-mobile-to-watch](https://github.com/Explore-In-HMOS-Wearable/wear-engine-mobile-to-watch) |
-| Wearable Social Media | [https://github.com/Explore-In-HMOS-Wearable/wearable-social-media](https://github.com/Explore-In-HMOS-Wearable/wearable-social-media) |
 | Weather App | [https://github.com/Explore-In-HMOS-Wearable/weather-app](https://github.com/Explore-In-HMOS-Wearable/weather-app) |
 | Word Flip | [https://github.com/Explore-In-HMOS-Wearable/word-flip](https://github.com/Explore-In-HMOS-Wearable/word-flip) |
 | Wv Notes | [https://github.com/Explore-In-HMOS-Wearable/wv-notes](https://github.com/Explore-In-HMOS-Wearable/wv-notes) |
