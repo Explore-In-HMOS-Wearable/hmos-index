@@ -51,7 +51,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Daily Quotes | [https://github.com/Explore-In-HMOS-Wearable/daily-quotes](https://github.com/Explore-In-HMOS-Wearable/daily-quotes) |
 | Demo Auth Scan | [https://github.com/Explore-In-HMOS-Wearable/demo-auth-scan](https://github.com/Explore-In-HMOS-Wearable/demo-auth-scan) |
 | Drive Sense | [https://github.com/Explore-In-HMOS-Wearable/drive-sense](https://github.com/Explore-In-HMOS-Wearable/drive-sense) |
-| Event Calender | [https://github.com/Explore-In-HMOS-Wearable/event-calender](https://github.com/Explore-In-HMOS-Wearable/event-calender) |
+| Event Calendar | [https://github.com/Explore-In-HMOS-Wearable/event-calendar](https://github.com/Explore-In-HMOS-Wearable/event-calendar) |
 | Event Countdown | [https://github.com/Explore-In-HMOS-Wearable/event-countdown](https://github.com/Explore-In-HMOS-Wearable/event-countdown) |
 | Event Snap | [https://github.com/Explore-In-HMOS-Wearable/event-snap](https://github.com/Explore-In-HMOS-Wearable/event-snap) |
 | Expense Splitter | [https://github.com/Explore-In-HMOS-Wearable/expense-splitter](https://github.com/Explore-In-HMOS-Wearable/expense-splitter) |
