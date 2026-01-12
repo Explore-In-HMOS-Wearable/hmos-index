@@ -14,7 +14,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
          src="https://img.shields.io/badge/Adapter%20Project-Quick%20Integration-0A84FF?style=for-the-badge&logo=harmonyos">
   </a>
   &nbsp; &nbsp;
-  <a href="[https://explore-in-hmos-wearable.github.io/mockup-generator/](https://explore-in-hmos-wearable.github.io/mockup-generator/)">
+  <a href="https://explore-in-hmos-wearable.github.io/mockup-generator/">
     <img alt="Mockup Generator"
          src="https://img.shields.io/badge/Mockup%20Generator-Tool-FF5500?style=for-the-badge&logo=harmonyos">
   </a>
