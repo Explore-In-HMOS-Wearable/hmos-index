@@ -26,6 +26,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 
 | Project Name | Repository Link |
 |--------------|-----------------|
+| Airlines | [https://github.com/Explore-In-HMOS-Wearable/airlines](https://github.com/Explore-In-HMOS-Wearable/airlines) |
 | Allergy Care | [https://github.com/Explore-In-HMOS-Wearable/allergy-care](https://github.com/Explore-In-HMOS-Wearable/allergy-care) |
 | Audio Player | [https://github.com/Explore-In-HMOS-Wearable/audio-player](https://github.com/Explore-In-HMOS-Wearable/audio-player) |
 | Baby Day Tracker | [https://github.com/Explore-In-HMOS-Wearable/baby-day-tracker](https://github.com/Explore-In-HMOS-Wearable/baby-day-tracker) |
@@ -42,6 +43,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Calorie Quest | [https://github.com/Explore-In-HMOS-Wearable/calorie-quest](https://github.com/Explore-In-HMOS-Wearable/calorie-quest) |
 | Calorie Tracker | [https://github.com/Explore-In-HMOS-Wearable/calorie-tracker](https://github.com/Explore-In-HMOS-Wearable/calorie-tracker) |
 | Carbon Footprint Step Tracker | [https://github.com/Explore-In-HMOS-Wearable/carbon-footprint-step-tracker](https://github.com/Explore-In-HMOS-Wearable/carbon-footprint-step-tracker) |
+| City Taxi | [https://github.com/Explore-In-HMOS-Wearable/city-taxi](https://github.com/Explore-In-HMOS-Wearable/city-taxi) |
 | Clear Watch | [https://github.com/Explore-In-HMOS-Wearable/clear-watch](https://github.com/Explore-In-HMOS-Wearable/clear-watch) |
 | Cocos Game | [https://github.com/Explore-In-HMOS-Wearable/cocos-game](https://github.com/Explore-In-HMOS-Wearable/cocos-game) |
 | Coffee Tracker | [https://github.com/Explore-In-HMOS-Wearable/coffee-tracker](https://github.com/Explore-In-HMOS-Wearable/coffee-tracker) |
@@ -58,6 +60,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Demo Auth Scan | [https://github.com/Explore-In-HMOS-Wearable/demo-auth-scan](https://github.com/Explore-In-HMOS-Wearable/demo-auth-scan) |
 | Diabetes Tracker | [https://github.com/Explore-In-HMOS-Wearable/diabetes-tracker](https://github.com/Explore-In-HMOS-Wearable/diabetes-tracker) |
 | Drive Sense | [https://github.com/Explore-In-HMOS-Wearable/drive-sense](https://github.com/Explore-In-HMOS-Wearable/drive-sense) |
+| E Commerce | [https://github.com/Explore-In-HMOS-Wearable/e-commerce](https://github.com/Explore-In-HMOS-Wearable/e-commerce) |
 | Event Calendar | [https://github.com/Explore-In-HMOS-Wearable/event-calendar](https://github.com/Explore-In-HMOS-Wearable/event-calendar) |
 | Event Countdown | [https://github.com/Explore-In-HMOS-Wearable/event-countdown](https://github.com/Explore-In-HMOS-Wearable/event-countdown) |
 | Event Snap | [https://github.com/Explore-In-HMOS-Wearable/event-snap](https://github.com/Explore-In-HMOS-Wearable/event-snap) |
@@ -68,7 +71,9 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Fitness Health Kit | [https://github.com/Explore-In-HMOS-Wearable/fitness-health-kit](https://github.com/Explore-In-HMOS-Wearable/fitness-health-kit) |
 | Flash Cards | [https://github.com/Explore-In-HMOS-Wearable/flash-cards](https://github.com/Explore-In-HMOS-Wearable/flash-cards) |
 | Flashlight | [https://github.com/Explore-In-HMOS-Wearable/flashlight](https://github.com/Explore-In-HMOS-Wearable/flashlight) |
+| Flowear | [https://github.com/Explore-In-HMOS-Wearable/flowear](https://github.com/Explore-In-HMOS-Wearable/flowear) |
 | Focus Timer | [https://github.com/Explore-In-HMOS-Wearable/focus-timer](https://github.com/Explore-In-HMOS-Wearable/focus-timer) |
+| Food Ticket Card | [https://github.com/Explore-In-HMOS-Wearable/food-ticket-card](https://github.com/Explore-In-HMOS-Wearable/food-ticket-card) |
 | Garden Helper | [https://github.com/Explore-In-HMOS-Wearable/garden-helper](https://github.com/Explore-In-HMOS-Wearable/garden-helper) |
 | Geo Pulse | [https://github.com/Explore-In-HMOS-Wearable/geo-pulse](https://github.com/Explore-In-HMOS-Wearable/geo-pulse) |
 | Geo Schedule | [https://github.com/Explore-In-HMOS-Wearable/geo-schedule](https://github.com/Explore-In-HMOS-Wearable/geo-schedule) |
@@ -89,6 +94,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Home Check App | [https://github.com/Explore-In-HMOS-Wearable/home-check-app](https://github.com/Explore-In-HMOS-Wearable/home-check-app) |
 | Hydration Wave | [https://github.com/Explore-In-HMOS-Wearable/hydration-wave](https://github.com/Explore-In-HMOS-Wearable/hydration-wave) |
 | Iap Purchase Subscription App | [https://github.com/Explore-In-HMOS-Wearable/iap-purchase-subscription-app](https://github.com/Explore-In-HMOS-Wearable/iap-purchase-subscription-app) |
+| Innerwave | [https://github.com/Explore-In-HMOS-Wearable/innerwave](https://github.com/Explore-In-HMOS-Wearable/innerwave) |
 | Interval Clock | [https://github.com/Explore-In-HMOS-Wearable/interval-clock](https://github.com/Explore-In-HMOS-Wearable/interval-clock) |
 | Kitchen Clock App | [https://github.com/Explore-In-HMOS-Wearable/kitchen-clock-app](https://github.com/Explore-In-HMOS-Wearable/kitchen-clock-app) |
 | Kokology Game | [https://github.com/Explore-In-HMOS-Wearable/kokology-game](https://github.com/Explore-In-HMOS-Wearable/kokology-game) |
@@ -302,14 +308,19 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 
 | Project Name | Repository Link |
 |--------------|-----------------|
+| Sportwatch Airlines | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-airlines](https://github.com/Explore-In-HMOS-Wearable/sportwatch-airlines) |
+| Sportwatch City Taxi | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-city-taxi](https://github.com/Explore-In-HMOS-Wearable/sportwatch-city-taxi) |
 | Sportwatch Coffee Tracker | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-coffee-tracker](https://github.com/Explore-In-HMOS-Wearable/sportwatch-coffee-tracker) |
 | Sportwatch Counttimer Lite | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-counttimer-lite](https://github.com/Explore-In-HMOS-Wearable/sportwatch-counttimer-lite) |
+| Sportwatch E Commerce | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-e-commerce](https://github.com/Explore-In-HMOS-Wearable/sportwatch-e-commerce) |
 | Sportwatch Encrypted Decrypt Filestore | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-encrypted-decrypt-filestore](https://github.com/Explore-In-HMOS-Wearable/sportwatch-encrypted-decrypt-filestore) |
 | Sportwatch Exit App | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-exit-app](https://github.com/Explore-In-HMOS-Wearable/sportwatch-exit-app) |
 | Sportwatch Fasting App | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-fasting-app](https://github.com/Explore-In-HMOS-Wearable/sportwatch-fasting-app) |
+| Sportwatch Food Ticket Card | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-food-ticket-card](https://github.com/Explore-In-HMOS-Wearable/sportwatch-food-ticket-card) |
 | Sportwatch Gmaps Calculate | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-gmaps-calculate](https://github.com/Explore-In-HMOS-Wearable/sportwatch-gmaps-calculate) |
 | Sportwatch Golf Gps Range Finder | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-golf-gps-range-finder](https://github.com/Explore-In-HMOS-Wearable/sportwatch-golf-gps-range-finder) |
 | Sportwatch Guess The Num | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-guess-the-num](https://github.com/Explore-In-HMOS-Wearable/sportwatch-guess-the-num) |
+| Sportwatch Innerwave | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-innerwave](https://github.com/Explore-In-HMOS-Wearable/sportwatch-innerwave) |
 | Sportwatch Morse Guard | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-morse-guard](https://github.com/Explore-In-HMOS-Wearable/sportwatch-morse-guard) |
 | Sportwatch Music Controller | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-music-controller](https://github.com/Explore-In-HMOS-Wearable/sportwatch-music-controller) |
 | Sportwatch Pace Pulse Lite | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-pace-pulse-lite](https://github.com/Explore-In-HMOS-Wearable/sportwatch-pace-pulse-lite) |
