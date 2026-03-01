@@ -31,6 +31,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Audio Player | [https://github.com/Explore-In-HMOS-Wearable/audio-player](https://github.com/Explore-In-HMOS-Wearable/audio-player) |
 | Baby Day Tracker | [https://github.com/Explore-In-HMOS-Wearable/baby-day-tracker](https://github.com/Explore-In-HMOS-Wearable/baby-day-tracker) |
 | Barista Recipes | [https://github.com/Explore-In-HMOS-Wearable/barista-recipes](https://github.com/Explore-In-HMOS-Wearable/barista-recipes) |
+| Be Fit | [https://github.com/Explore-In-HMOS-Wearable/be-fit](https://github.com/Explore-In-HMOS-Wearable/be-fit) |
 | Beacon Based Attendance | [https://github.com/Explore-In-HMOS-Wearable/beacon-based-attendance](https://github.com/Explore-In-HMOS-Wearable/beacon-based-attendance) |
 | Bilingual Phrasebook | [https://github.com/Explore-In-HMOS-Wearable/bilingual-phrasebook](https://github.com/Explore-In-HMOS-Wearable/bilingual-phrasebook) |
 | Block Game | [https://github.com/Explore-In-HMOS-Wearable/block-game](https://github.com/Explore-In-HMOS-Wearable/block-game) |
@@ -77,6 +78,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Garden Helper | [https://github.com/Explore-In-HMOS-Wearable/garden-helper](https://github.com/Explore-In-HMOS-Wearable/garden-helper) |
 | Geo Pulse | [https://github.com/Explore-In-HMOS-Wearable/geo-pulse](https://github.com/Explore-In-HMOS-Wearable/geo-pulse) |
 | Geo Schedule | [https://github.com/Explore-In-HMOS-Wearable/geo-schedule](https://github.com/Explore-In-HMOS-Wearable/geo-schedule) |
+| Goal Pulse | [https://github.com/Explore-In-HMOS-Wearable/goal-pulse](https://github.com/Explore-In-HMOS-Wearable/goal-pulse) |
 | Golf Gps Range Finder | [https://github.com/Explore-In-HMOS-Wearable/golf-gps-range-finder](https://github.com/Explore-In-HMOS-Wearable/golf-gps-range-finder) |
 | Golf Helper | [https://github.com/Explore-In-HMOS-Wearable/golf-helper](https://github.com/Explore-In-HMOS-Wearable/golf-helper) |
 | Grow Your Pet | [https://github.com/Explore-In-HMOS-Wearable/grow-your-pet](https://github.com/Explore-In-HMOS-Wearable/grow-your-pet) |
@@ -150,6 +152,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Reafy | [https://github.com/Explore-In-HMOS-Wearable/reafy](https://github.com/Explore-In-HMOS-Wearable/reafy) |
 | Recipe Food App | [https://github.com/Explore-In-HMOS-Wearable/recipe-food-app](https://github.com/Explore-In-HMOS-Wearable/recipe-food-app) |
 | Reflex Challenge | [https://github.com/Explore-In-HMOS-Wearable/reflex-challenge](https://github.com/Explore-In-HMOS-Wearable/reflex-challenge) |
+| Rolling Game | [https://github.com/Explore-In-HMOS-Wearable/rolling-game](https://github.com/Explore-In-HMOS-Wearable/rolling-game) |
 | Safe Circle | [https://github.com/Explore-In-HMOS-Wearable/safe-circle](https://github.com/Explore-In-HMOS-Wearable/safe-circle) |
 | Safe Zone | [https://github.com/Explore-In-HMOS-Wearable/safe-zone](https://github.com/Explore-In-HMOS-Wearable/safe-zone) |
 | Secure Dice Roller | [https://github.com/Explore-In-HMOS-Wearable/secure-dice-roller](https://github.com/Explore-In-HMOS-Wearable/secure-dice-roller) |
@@ -186,6 +189,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Touristic Places | [https://github.com/Explore-In-HMOS-Wearable/touristic-places](https://github.com/Explore-In-HMOS-Wearable/touristic-places) |
 | Track Way | [https://github.com/Explore-In-HMOS-Wearable/track-way](https://github.com/Explore-In-HMOS-Wearable/track-way) |
 | Trading App | [https://github.com/Explore-In-HMOS-Wearable/trading-app](https://github.com/Explore-In-HMOS-Wearable/trading-app) |
+| Transportation | [https://github.com/Explore-In-HMOS-Wearable/transportation](https://github.com/Explore-In-HMOS-Wearable/transportation) |
 | Travel App | [https://github.com/Explore-In-HMOS-Wearable/travel-app](https://github.com/Explore-In-HMOS-Wearable/travel-app) |
 | Unit Calculator | [https://github.com/Explore-In-HMOS-Wearable/unit-calculator](https://github.com/Explore-In-HMOS-Wearable/unit-calculator) |
 | Visa Vista | [https://github.com/Explore-In-HMOS-Wearable/visa-vista](https://github.com/Explore-In-HMOS-Wearable/visa-vista) |
@@ -204,6 +208,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Web Cookie Playground | [https://github.com/Explore-In-HMOS-Wearable/web-cookie-playground](https://github.com/Explore-In-HMOS-Wearable/web-cookie-playground) |
 | Womens Health | [https://github.com/Explore-In-HMOS-Wearable/womens-health](https://github.com/Explore-In-HMOS-Wearable/womens-health) |
 | Word Flip | [https://github.com/Explore-In-HMOS-Wearable/word-flip](https://github.com/Explore-In-HMOS-Wearable/word-flip) |
+| Word Game | [https://github.com/Explore-In-HMOS-Wearable/word-game](https://github.com/Explore-In-HMOS-Wearable/word-game) |
 | Workout App | [https://github.com/Explore-In-HMOS-Wearable/workout-app](https://github.com/Explore-In-HMOS-Wearable/workout-app) |
 | Workout Center | [https://github.com/Explore-In-HMOS-Wearable/workout-center](https://github.com/Explore-In-HMOS-Wearable/workout-center) |
 | Workout Tracker | [https://github.com/Explore-In-HMOS-Wearable/workout-tracker](https://github.com/Explore-In-HMOS-Wearable/workout-tracker) |
@@ -223,6 +228,8 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | How To Apply Text Typography | [https://github.com/Explore-In-HMOS-Wearable/how-to-apply-text-typography](https://github.com/Explore-In-HMOS-Wearable/how-to-apply-text-typography) |
 | How To Build Trakinggo On Harmonyos | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-trakinggo-on-harmonyos](https://github.com/Explore-In-HMOS-Wearable/how-to-build-trakinggo-on-harmonyos) |
 | How To Check Network Connection | [https://github.com/Explore-In-HMOS-Wearable/how-to-check-network-connection](https://github.com/Explore-In-HMOS-Wearable/how-to-check-network-connection) |
+| How To Control Smart Lights With Harmonyos And Mqtt | [https://github.com/Explore-In-HMOS-Wearable/how-to-control-smart-lights-with-harmonyos-and-mqtt](https://github.com/Explore-In-HMOS-Wearable/how-to-control-smart-lights-with-harmonyos-and-mqtt) |
+| How To Control With Bluetooth | [https://github.com/Explore-In-HMOS-Wearable/how-to-control-with-bluetooth](https://github.com/Explore-In-HMOS-Wearable/how-to-control-with-bluetooth) |
 | How To Control3d Models With Arkgraphics3d | [https://github.com/Explore-In-HMOS-Wearable/how-to-control3d-models-with-arkgraphics3d](https://github.com/Explore-In-HMOS-Wearable/how-to-control3d-models-with-arkgraphics3d) |
 | How To Create Calender Picker In Wearable | [https://github.com/Explore-In-HMOS-Wearable/how-to-create-calender-picker-in-wearable](https://github.com/Explore-In-HMOS-Wearable/how-to-create-calender-picker-in-wearable) |
 | How To Create Card Widgets | [https://github.com/Explore-In-HMOS-Wearable/how-to-create-card-widgets](https://github.com/Explore-In-HMOS-Wearable/how-to-create-card-widgets) |
@@ -309,6 +316,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Project Name | Repository Link |
 |--------------|-----------------|
 | Sportwatch Airlines | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-airlines](https://github.com/Explore-In-HMOS-Wearable/sportwatch-airlines) |
+| Sportwatch Be Fit | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-be-fit](https://github.com/Explore-In-HMOS-Wearable/sportwatch-be-fit) |
 | Sportwatch City Taxi | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-city-taxi](https://github.com/Explore-In-HMOS-Wearable/sportwatch-city-taxi) |
 | Sportwatch Coffee Tracker | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-coffee-tracker](https://github.com/Explore-In-HMOS-Wearable/sportwatch-coffee-tracker) |
 | Sportwatch Counttimer Lite | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-counttimer-lite](https://github.com/Explore-In-HMOS-Wearable/sportwatch-counttimer-lite) |
@@ -318,6 +326,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Sportwatch Fasting App | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-fasting-app](https://github.com/Explore-In-HMOS-Wearable/sportwatch-fasting-app) |
 | Sportwatch Food Ticket Card | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-food-ticket-card](https://github.com/Explore-In-HMOS-Wearable/sportwatch-food-ticket-card) |
 | Sportwatch Gmaps Calculate | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-gmaps-calculate](https://github.com/Explore-In-HMOS-Wearable/sportwatch-gmaps-calculate) |
+| Sportwatch Goal Pulse | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-goal-pulse](https://github.com/Explore-In-HMOS-Wearable/sportwatch-goal-pulse) |
 | Sportwatch Golf Gps Range Finder | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-golf-gps-range-finder](https://github.com/Explore-In-HMOS-Wearable/sportwatch-golf-gps-range-finder) |
 | Sportwatch Guess The Num | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-guess-the-num](https://github.com/Explore-In-HMOS-Wearable/sportwatch-guess-the-num) |
 | Sportwatch Innerwave | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-innerwave](https://github.com/Explore-In-HMOS-Wearable/sportwatch-innerwave) |
@@ -330,12 +339,14 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Sportwatch Productivity Timer | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-productivity-timer](https://github.com/Explore-In-HMOS-Wearable/sportwatch-productivity-timer) |
 | Sportwatch Quiz Game | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-quiz-game](https://github.com/Explore-In-HMOS-Wearable/sportwatch-quiz-game) |
 | Sportwatch Remote Presentation | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-remote-presentation](https://github.com/Explore-In-HMOS-Wearable/sportwatch-remote-presentation) |
+| Sportwatch Rolling Game | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-rolling-game](https://github.com/Explore-In-HMOS-Wearable/sportwatch-rolling-game) |
 | Sportwatch Tap The Dot Game | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-tap-the-dot-game](https://github.com/Explore-In-HMOS-Wearable/sportwatch-tap-the-dot-game) |
 | Sportwatch Tile Guess | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-tile-guess](https://github.com/Explore-In-HMOS-Wearable/sportwatch-tile-guess) |
 | Sportwatch Tower Defense Game | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-tower-defense-game](https://github.com/Explore-In-HMOS-Wearable/sportwatch-tower-defense-game) |
 | Sportwatch Virtual Keyboard | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-virtual-keyboard](https://github.com/Explore-In-HMOS-Wearable/sportwatch-virtual-keyboard) |
 | Sportwatch Wear Engine Lite Wearable To Mobile | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-wear-engine-lite-wearable-to-mobile](https://github.com/Explore-In-HMOS-Wearable/sportwatch-wear-engine-lite-wearable-to-mobile) |
 | Sportwatch Weather Now | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-weather-now](https://github.com/Explore-In-HMOS-Wearable/sportwatch-weather-now) |
+| Sportwatch Word Game | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-word-game](https://github.com/Explore-In-HMOS-Wearable/sportwatch-word-game) |
 
 ---
 
