@@ -165,6 +165,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Safe Circle | [https://github.com/Explore-In-HMOS-Wearable/safe-circle](https://github.com/Explore-In-HMOS-Wearable/safe-circle) |
 | Safe Zone | [https://github.com/Explore-In-HMOS-Wearable/safe-zone](https://github.com/Explore-In-HMOS-Wearable/safe-zone) |
 | Secure Dice Roller | [https://github.com/Explore-In-HMOS-Wearable/secure-dice-roller](https://github.com/Explore-In-HMOS-Wearable/secure-dice-roller) |
+| Secure File Vault | [https://github.com/Explore-In-HMOS-Wearable/secure-file-vault](https://github.com/Explore-In-HMOS-Wearable/secure-file-vault) |
 | Secure Password Manager | [https://github.com/Explore-In-HMOS-Wearable/secure-password-manager](https://github.com/Explore-In-HMOS-Wearable/secure-password-manager) |
 | Secure Token Locker | [https://github.com/Explore-In-HMOS-Wearable/secure-token-locker](https://github.com/Explore-In-HMOS-Wearable/secure-token-locker) |
 | Serenity Kit | [https://github.com/Explore-In-HMOS-Wearable/serenity-kit](https://github.com/Explore-In-HMOS-Wearable/serenity-kit) |
@@ -238,22 +239,50 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 |--------------|-----------------|
 | How To Add Rotating Verifier | [https://github.com/Explore-In-HMOS-Wearable/how-to-add-rotating-verifier](https://github.com/Explore-In-HMOS-Wearable/how-to-add-rotating-verifier) |
 | How To Apply Text Typography | [https://github.com/Explore-In-HMOS-Wearable/how-to-apply-text-typography](https://github.com/Explore-In-HMOS-Wearable/how-to-apply-text-typography) |
+| How To Audit Accessibility State | [https://github.com/Explore-In-HMOS-Wearable/how-to-audit-accessibility-state](https://github.com/Explore-In-HMOS-Wearable/how-to-audit-accessibility-state) |
+| How To Build App Lifecycle Hub | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-app-lifecycle-hub](https://github.com/Explore-In-HMOS-Wearable/how-to-build-app-lifecycle-hub) |
 | How To Build Arc Progress Dashboard | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-arc-progress-dashboard](https://github.com/Explore-In-HMOS-Wearable/how-to-build-arc-progress-dashboard) |
+| How To Build Background Task Scheduler | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-background-task-scheduler](https://github.com/Explore-In-HMOS-Wearable/how-to-build-background-task-scheduler) |
+| How To Build Bluetooth Device Dashboard | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-bluetooth-device-dashboard](https://github.com/Explore-In-HMOS-Wearable/how-to-build-bluetooth-device-dashboard) |
+| How To Build Border Shape Style | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-border-shape-style](https://github.com/Explore-In-HMOS-Wearable/how-to-build-border-shape-style) |
 | How To Build Buffered Stream Bench | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-buffered-stream-bench](https://github.com/Explore-In-HMOS-Wearable/how-to-build-buffered-stream-bench) |
+| How To Build Cloud File Sync | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-cloud-file-sync](https://github.com/Explore-In-HMOS-Wearable/how-to-build-cloud-file-sync) |
+| How To Build Crash Recovery Guard | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-crash-recovery-guard](https://github.com/Explore-In-HMOS-Wearable/how-to-build-crash-recovery-guard) |
+| How To Build Crown Gesture Navigator | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-crown-gesture-navigator](https://github.com/Explore-In-HMOS-Wearable/how-to-build-crown-gesture-navigator) |
 | How To Build Gesture Drill Board | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-gesture-drill-board](https://github.com/Explore-In-HMOS-Wearable/how-to-build-gesture-drill-board) |
+| How To Build Haptic Coach | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-haptic-coach](https://github.com/Explore-In-HMOS-Wearable/how-to-build-haptic-coach) |
+| How To Build Heat Map Explorer | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-heat-map-explorer](https://github.com/Explore-In-HMOS-Wearable/how-to-build-heat-map-explorer) |
+| How To Build Live Widget Factory | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-live-widget-factory](https://github.com/Explore-In-HMOS-Wearable/how-to-build-live-widget-factory) |
+| How To Build Map Animation Studio | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-map-animation-studio](https://github.com/Explore-In-HMOS-Wearable/how-to-build-map-animation-studio) |
 | How To Build Micro Poster Renderer | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-micro-poster-renderer](https://github.com/Explore-In-HMOS-Wearable/how-to-build-micro-poster-renderer) |
 | How To Build Mission Task Switcher | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-mission-task-switcher](https://github.com/Explore-In-HMOS-Wearable/how-to-build-mission-task-switcher) |
 | How To Build Network Firewall Tester | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-network-firewall-tester](https://github.com/Explore-In-HMOS-Wearable/how-to-build-network-firewall-tester) |
+| How To Build Network Usage Dashboard | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-network-usage-dashboard](https://github.com/Explore-In-HMOS-Wearable/how-to-build-network-usage-dashboard) |
+| How To Build Nfc Access Badge | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-nfc-access-badge](https://github.com/Explore-In-HMOS-Wearable/how-to-build-nfc-access-badge) |
 | How To Build Photo Thumbnail Engine | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-photo-thumbnail-engine](https://github.com/Explore-In-HMOS-Wearable/how-to-build-photo-thumbnail-engine) |
+| How To Build Podcast Player | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-podcast-player](https://github.com/Explore-In-HMOS-Wearable/how-to-build-podcast-player) |
 | How To Build Queue Scrollboard | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-queue-scrollboard](https://github.com/Explore-In-HMOS-Wearable/how-to-build-queue-scrollboard) |
 | How To Build Quick Reply Input Deck | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-quick-reply-input-deck](https://github.com/Explore-In-HMOS-Wearable/how-to-build-quick-reply-input-deck) |
+| How To Build Rich Notification Center | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-rich-notification-center](https://github.com/Explore-In-HMOS-Wearable/how-to-build-rich-notification-center) |
 | How To Build Round Form Navigator And Paste Button | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-round-form-navigator-and-paste-button](https://github.com/Explore-In-HMOS-Wearable/how-to-build-round-form-navigator-and-paste-button) |
+| How To Build Route Tracker | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-route-tracker](https://github.com/Explore-In-HMOS-Wearable/how-to-build-route-tracker) |
+| How To Build Security Buttons | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-security-buttons](https://github.com/Explore-In-HMOS-Wearable/how-to-build-security-buttons) |
 | How To Build Startup Recovery Board | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-startup-recovery-board](https://github.com/Explore-In-HMOS-Wearable/how-to-build-startup-recovery-board) |
+| How To Build System Event Monitor | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-system-event-monitor](https://github.com/Explore-In-HMOS-Wearable/how-to-build-system-event-monitor) |
+| How To Build Theme Dark Mode | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-theme-dark-mode](https://github.com/Explore-In-HMOS-Wearable/how-to-build-theme-dark-mode) |
+| How To Build Touch Event Handler | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-touch-event-handler](https://github.com/Explore-In-HMOS-Wearable/how-to-build-touch-event-handler) |
+| How To Build Touch Gesture Lab | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-touch-gesture-lab](https://github.com/Explore-In-HMOS-Wearable/how-to-build-touch-gesture-lab) |
 | How To Build Trakinggo On Harmonyos | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-trakinggo-on-harmonyos](https://github.com/Explore-In-HMOS-Wearable/how-to-build-trakinggo-on-harmonyos) |
+| How To Build Typography Showcase | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-typography-showcase](https://github.com/Explore-In-HMOS-Wearable/how-to-build-typography-showcase) |
+| How To Build Visual Effects Pipeline | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-visual-effects-pipeline](https://github.com/Explore-In-HMOS-Wearable/how-to-build-visual-effects-pipeline) |
+| How To Build Voice Memo Recorder | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-voice-memo-recorder](https://github.com/Explore-In-HMOS-Wearable/how-to-build-voice-memo-recorder) |
+| How To Build Watch Face Painter | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-watch-face-painter](https://github.com/Explore-In-HMOS-Wearable/how-to-build-watch-face-painter) |
+| How To Build Watch Media Player With Playback Control | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-watch-media-player-with-playback-control](https://github.com/Explore-In-HMOS-Wearable/how-to-build-watch-media-player-with-playback-control) |
 | How To Check Network Connection | [https://github.com/Explore-In-HMOS-Wearable/how-to-check-network-connection](https://github.com/Explore-In-HMOS-Wearable/how-to-check-network-connection) |
 | How To Control Smart Lights With Harmonyos And Mqtt | [https://github.com/Explore-In-HMOS-Wearable/how-to-control-smart-lights-with-harmonyos-and-mqtt](https://github.com/Explore-In-HMOS-Wearable/how-to-control-smart-lights-with-harmonyos-and-mqtt) |
 | How To Control With Bluetooth | [https://github.com/Explore-In-HMOS-Wearable/how-to-control-with-bluetooth](https://github.com/Explore-In-HMOS-Wearable/how-to-control-with-bluetooth) |
 | How To Control3d Models With Arkgraphics3d | [https://github.com/Explore-In-HMOS-Wearable/how-to-control3d-models-with-arkgraphics3d](https://github.com/Explore-In-HMOS-Wearable/how-to-control3d-models-with-arkgraphics3d) |
+| How To Create Arctext | [https://github.com/Explore-In-HMOS-Wearable/how-to-create-arctext](https://github.com/Explore-In-HMOS-Wearable/how-to-create-arctext) |
 | How To Create Calender Picker In Wearable | [https://github.com/Explore-In-HMOS-Wearable/how-to-create-calender-picker-in-wearable](https://github.com/Explore-In-HMOS-Wearable/how-to-create-calender-picker-in-wearable) |
 | How To Create Card Widgets | [https://github.com/Explore-In-HMOS-Wearable/how-to-create-card-widgets](https://github.com/Explore-In-HMOS-Wearable/how-to-create-card-widgets) |
 | How To Create Curved Text | [https://github.com/Explore-In-HMOS-Wearable/how-to-create-curved-text](https://github.com/Explore-In-HMOS-Wearable/how-to-create-curved-text) |
@@ -397,17 +426,21 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Sportwatch How To Create Image Animator | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-image-animator](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-image-animator) |
 | Sportwatch How To Create Marquee | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-marquee](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-marquee) |
 | Sportwatch How To Create Radial Menu | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-radial-menu](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-radial-menu) |
+| Sportwatch How To Create Selection Button | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-selection-button](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-selection-button) |
 | Sportwatch How To Create Spin | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-spin](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-spin) |
 | Sportwatch How To Create Swiper | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-swiper](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-swiper) |
 | Sportwatch How To Do File Operations | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-do-file-operations](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-do-file-operations) |
 | Sportwatch How To Gyro Light | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-gyro-light](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-gyro-light) |
 | Sportwatch How To Implement And Customize Qr Code | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-implement-and-customize-qr-code](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-implement-and-customize-qr-code) |
+| Sportwatch How To Implement Expandable List Item | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-implement-expandable-list-item](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-implement-expandable-list-item) |
+| Sportwatch How To Implement File Based Db | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-implement-file-based-db](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-implement-file-based-db) |
 | Sportwatch How To Lite Chart | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-lite-chart](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-lite-chart) |
 | Sportwatch How To Make Compass App | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-make-compass-app](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-make-compass-app) |
 | Sportwatch How To Monitor Periods | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-monitor-periods](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-monitor-periods) |
 | Sportwatch How To Pin Qr | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-pin-qr](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-pin-qr) |
 | Sportwatch How To Show Heart Rate And Steps | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-show-heart-rate-and-steps](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-show-heart-rate-and-steps) |
 | Sportwatch How To Show User Location | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-show-user-location](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-show-user-location) |
+| Sportwatch How To Swipe To Delete | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-swipe-to-delete](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-swipe-to-delete) |
 | Sportwatch How To Use 3des | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-use-3des](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-use-3des) |
 | Sportwatch How To Use App | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-use-app](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-use-app) |
 | Sportwatch How To Use Battery | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-use-battery](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-use-battery) |
