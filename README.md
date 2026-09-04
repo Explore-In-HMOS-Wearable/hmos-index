@@ -22,6 +22,29 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 
 ---
 
+## 📖 User Guides
+
+All step-by-step user guides are collected in a single dedicated repository.
+
+<p align="center">
+  <a href="https://github.com/Explore-In-HMOS-Wearable/hmos-user-guides">
+    <img alt="HMOS User Guides"
+         src="https://img.shields.io/badge/HMOS%20User%20Guides-Browse%20All%20Guides-2DA44E?style=for-the-badge&logo=readthedocs">
+  </a>
+</p>
+
+➡️ **[Explore-In-HMOS-Wearable/hmos-user-guides](https://github.com/Explore-In-HMOS-Wearable/hmos-user-guides)**
+
+---
+
+## 🌐 Cross Platform Applications
+
+| Project Name | Repository Link |
+|--------------|-----------------|
+| Flutter Healthkit | [https://github.com/Explore-In-HMOS-Wearable/flutter-healthkit](https://github.com/Explore-In-HMOS-Wearable/flutter-healthkit) |
+
+---
+
 ## ⌚ Sample Applications
 
 | Project Name | Repository Link |
@@ -29,6 +52,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Airlines | [https://github.com/Explore-In-HMOS-Wearable/airlines](https://github.com/Explore-In-HMOS-Wearable/airlines) |
 | Allergy Care | [https://github.com/Explore-In-HMOS-Wearable/allergy-care](https://github.com/Explore-In-HMOS-Wearable/allergy-care) |
 | Audio Player | [https://github.com/Explore-In-HMOS-Wearable/audio-player](https://github.com/Explore-In-HMOS-Wearable/audio-player) |
+| Audio Recorder | [https://github.com/Explore-In-HMOS-Wearable/audio-recorder](https://github.com/Explore-In-HMOS-Wearable/audio-recorder) |
 | Baby Day Tracker | [https://github.com/Explore-In-HMOS-Wearable/baby-day-tracker](https://github.com/Explore-In-HMOS-Wearable/baby-day-tracker) |
 | Backgammon | [https://github.com/Explore-In-HMOS-Wearable/backgammon](https://github.com/Explore-In-HMOS-Wearable/backgammon) |
 | Barista Recipes | [https://github.com/Explore-In-HMOS-Wearable/barista-recipes](https://github.com/Explore-In-HMOS-Wearable/barista-recipes) |
@@ -212,6 +236,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Water Tracker | [https://github.com/Explore-In-HMOS-Wearable/water-tracker](https://github.com/Explore-In-HMOS-Wearable/water-tracker) |
 | Way Find | [https://github.com/Explore-In-HMOS-Wearable/way-find](https://github.com/Explore-In-HMOS-Wearable/way-find) |
 | We Authenticator | [https://github.com/Explore-In-HMOS-Wearable/we-authenticator](https://github.com/Explore-In-HMOS-Wearable/we-authenticator) |
+| Wear Call | [https://github.com/Explore-In-HMOS-Wearable/wear-call](https://github.com/Explore-In-HMOS-Wearable/wear-call) |
 | Wear Engine Hmos Next Wearable To Phone | [https://github.com/Explore-In-HMOS-Wearable/wear-engine-hmos-next-wearable-to-phone](https://github.com/Explore-In-HMOS-Wearable/wear-engine-hmos-next-wearable-to-phone) |
 | Wear Engine Ios To Watch File Message | [https://github.com/Explore-In-HMOS-Wearable/wear-engine-ios-to-watch-file-message](https://github.com/Explore-In-HMOS-Wearable/wear-engine-ios-to-watch-file-message) |
 | Wear Engine Mobile To Watch | [https://github.com/Explore-In-HMOS-Wearable/wear-engine-mobile-to-watch](https://github.com/Explore-In-HMOS-Wearable/wear-engine-mobile-to-watch) |
@@ -233,6 +258,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | Wrist Vault | [https://github.com/Explore-In-HMOS-Wearable/wrist-vault](https://github.com/Explore-In-HMOS-Wearable/wrist-vault) |
 | Wv Notes | [https://github.com/Explore-In-HMOS-Wearable/wv-notes](https://github.com/Explore-In-HMOS-Wearable/wv-notes) |
 | Xox Game | [https://github.com/Explore-In-HMOS-Wearable/xox-game](https://github.com/Explore-In-HMOS-Wearable/xox-game) |
+| Zone Target | [https://github.com/Explore-In-HMOS-Wearable/zone-target](https://github.com/Explore-In-HMOS-Wearable/zone-target) |
 
 ---
 
@@ -278,6 +304,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | How To Build Crash Recovery Guard | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-crash-recovery-guard](https://github.com/Explore-In-HMOS-Wearable/how-to-build-crash-recovery-guard) |
 | How To Build Cross Device Continuation | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-cross-device-continuation](https://github.com/Explore-In-HMOS-Wearable/how-to-build-cross-device-continuation) |
 | How To Build Crown Gesture Navigator | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-crown-gesture-navigator](https://github.com/Explore-In-HMOS-Wearable/how-to-build-crown-gesture-navigator) |
+| How To Build Custom Emoji Keyboard | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-custom-emoji-keyboard](https://github.com/Explore-In-HMOS-Wearable/how-to-build-custom-emoji-keyboard) |
 | How To Build Custom Event Gesture | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-custom-event-gesture](https://github.com/Explore-In-HMOS-Wearable/how-to-build-custom-event-gesture) |
 | How To Build Custom Node Renderer | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-custom-node-renderer](https://github.com/Explore-In-HMOS-Wearable/how-to-build-custom-node-renderer) |
 | How To Build Custom Tile Layers | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-custom-tile-layers](https://github.com/Explore-In-HMOS-Wearable/how-to-build-custom-tile-layers) |
@@ -367,6 +394,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | How To Build Watch Face Painter | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-watch-face-painter](https://github.com/Explore-In-HMOS-Wearable/how-to-build-watch-face-painter) |
 | How To Build Watch Media Player With Playback Control | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-watch-media-player-with-playback-control](https://github.com/Explore-In-HMOS-Wearable/how-to-build-watch-media-player-with-playback-control) |
 | How To Build Web Download Manager | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-download-manager](https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-download-manager) |
+| How To Build Web File Keyboard | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-file-keyboard](https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-file-keyboard) |
 | How To Build Web Permission Console | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-permission-console](https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-permission-console) |
 | How To Build Web Proxy Prefetcher | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-proxy-prefetcher](https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-proxy-prefetcher) |
 | How To Build Web Status Handler | [https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-status-handler](https://github.com/Explore-In-HMOS-Wearable/how-to-build-web-status-handler) |
@@ -392,6 +420,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 | How To Generate Symmetric Keys | [https://github.com/Explore-In-HMOS-Wearable/how-to-generate-symmetric-keys](https://github.com/Explore-In-HMOS-Wearable/how-to-generate-symmetric-keys) |
 | How To Get Heart Rate With Sensorkit | [https://github.com/Explore-In-HMOS-Wearable/how-to-get-heart-rate-with-sensorkit](https://github.com/Explore-In-HMOS-Wearable/how-to-get-heart-rate-with-sensorkit) |
 | How To Implement Routing | [https://github.com/Explore-In-HMOS-Wearable/how-to-implement-routing](https://github.com/Explore-In-HMOS-Wearable/how-to-implement-routing) |
+| How To Implement Self Refreshing Widget | [https://github.com/Explore-In-HMOS-Wearable/how-to-implement-self-refreshing-widget](https://github.com/Explore-In-HMOS-Wearable/how-to-implement-self-refreshing-widget) |
 | How To Implement Tcp Connection | [https://github.com/Explore-In-HMOS-Wearable/how-to-implement-tcp-connection](https://github.com/Explore-In-HMOS-Wearable/how-to-implement-tcp-connection) |
 | How To Make Bluetooth Connectivity Monitor | [https://github.com/Explore-In-HMOS-Wearable/how-to-make-bluetooth-connectivity-monitor](https://github.com/Explore-In-HMOS-Wearable/how-to-make-bluetooth-connectivity-monitor) |
 | How To Make Booklist | [https://github.com/Explore-In-HMOS-Wearable/how-to-make-booklist](https://github.com/Explore-In-HMOS-Wearable/how-to-make-booklist) |
@@ -518,6 +547,7 @@ Here you can find links to all shared projects for HarmonyOS wearable developmen
 |--------------|-----------------|
 | Sportwatch How To Blink Flash | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-blink-flash](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-blink-flash) |
 | Sportwatch How To Build Inclinometer | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-build-inclinometer](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-build-inclinometer) |
+| Sportwatch How To Build Scrollable Dynamic Text | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-build-scrollable-dynamic-text](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-build-scrollable-dynamic-text) |
 | Sportwatch How To Calculate Distance | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-calculate-distance](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-calculate-distance) |
 | Sportwatch How To Create Dynamic Screen Changes | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-dynamic-screen-changes](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-dynamic-screen-changes) |
 | Sportwatch How To Create Image Animator | [https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-image-animator](https://github.com/Explore-In-HMOS-Wearable/sportwatch-how-to-create-image-animator) |
